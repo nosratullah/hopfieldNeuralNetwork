@@ -9,7 +9,11 @@ The Network capacity of the Hopfield network model is determined by neuron amoun
 
 # Refrences
 [1] Gurney, Kevin (2002). An Introduction to Neural Networks. Routledge. ISBN 978-1857285031.
+
 [2] Sathasivam, Saratha (2008). "Logic Learning in Hopfield Networks". arXiv:0804.4075 [cs.LO].
+
 [3] Liou, C.-Y.; Lin, S.-L. (2006). "Finite memory loading in hairy neurons" (PDF). Natural Computing. 5 (1): 15–42. doi:10.1007/s11047-004-5490-x.
+
 [4] Liou, C.-Y.; Yuan, S.-K. (1999). "Error Tolerant Associative Memory" (PDF). Biological Cybernetics. 81 (4): 331–342. doi:10.1007/s004220050566. PMID 10541936.
+
 [5] ABOUDIB, Ala; GRIPON, Vincent; JIANG, Xiaoran (2014). "A study of retrieval algorithms of sparse messages in networks of neural cliques". COGNITIVE 2014 : The 6th International Conference on Advanced Cognitive Technologies and Applications: 140–146.
