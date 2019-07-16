@@ -6,6 +6,10 @@ A Hopfield network is a form of recurrent artificial neural network popularized 
 # Coefficient Matrix
 ![matrix1](https://user-images.githubusercontent.com/13776994/61285801-d3d06280-a7d6-11e9-8582-23f0a5a7ab3d.png)
 
+This coefficient matrix belong to the tree bleow picture
+![hopfield2](https://user-images.githubusercontent.com/13776994/61286506-3a09b500-a7d8-11e9-854c-a896818e5ae9.png)
+
+
 # Capacity
 The Network capacity of the Hopfield network model is determined by neuron amounts and connections within a given network. Therefore, the number of memories that are able to be stored is dependent on neurons and connections. Furthermore, it was shown that the recall accuracy between vectors and nodes was 0.138 (approximately 138 vectors can be recalled from storage for every 1000 nodes) (Hertz et al., 1991). Therefore, it is evident that many mistakes will occur if one tries to store a large number of vectors. When the Hopfield model does not recall the right pattern, it is possible that an intrusion has taken place, since semantically related items tend to confuse the individual, and recollection of the wrong pattern occurs. Therefore, the Hopfield network model is shown to confuse one stored item with that of another upon retrieval. Perfect recalls and high capacity, >0.14, can be loaded in the network by Storkey learning method.[3][4] Ulterior models inspired by the Hopfield network were later devised to raise the storage limit and reduce the retrieval error rate, with some being capable of one-shot learning.[5]
 
