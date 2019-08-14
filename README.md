@@ -1,5 +1,5 @@
 # Hopfield Neural Network
-A simple Hopfield neural network for recalling memories
+A simple Hopfield neural network for recalling memories.
 A Hopfield network is a form of recurrent artificial neural network popularized by John Hopfield in 1982, but described earlier by Little in 1974.[1][2] Hopfield nets serve as content-addressable ("associative") memory systems with binary threshold nodes. They are guaranteed to converge to a local minimum and, therefore, may converge to a false pattern (wrong local minimum) rather than the stored pattern (expected local minimum). Hopfield networks also provide a model for understanding human memory.
 ![hofield](https://user-images.githubusercontent.com/13776994/61201384-94801400-a6f9-11e9-8db1-803f8229f868.png)
 
